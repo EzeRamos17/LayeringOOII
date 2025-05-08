@@ -1,0 +1,10 @@
+1, Concurso X, 2025/04/15, 2025/05/15
+2, Concurso Rock Nacional, 2025/04/20, 2025/05/20
+3, Concurso Internacional, 2025/04/25, 2025/05/25
+4, Concurso Jazz en la Radio, 2025/05/01, 2025/06/01
+5, Concurso Pop Star, 2025/05/05, 2025/06/05
+6, Concurso Música Clásica, 2025/05/10, 2025/06/10
+7, Concurso Talento Urbano, 2025/05/15, 2025/06/15
+8, Concurso Freestyle, 2025/05/20, 2025/06/20
+9, Concurso Bandas Emergentes, 2025/05/25, 2025/06/25
+10, Concurso Solistas, 2025/06/01, 2025/07/01
